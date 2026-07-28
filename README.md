@@ -22,7 +22,8 @@ Full Stack Developer (MERN) | Ex-Amazon UK | Kerala, India
 
 ### 📌 Featured Projects
 - 🔐 **[Password Generator]** — Strength meter, passphrase mode, entropy analysis
-- 🤖 **AI Mock Interview Platform** *(in progress)* — MERN + Gemini API
+- 🤖 **AI Mock Interview Platform** 
+-      Inventra - Inventory Management SaaS Application *(in progress)* 
 
 ---
 
