@@ -26,9 +26,8 @@ Full Stack Developer (MERN) | Ex-Amazon UK | Kerala, India
 ---
 
 ### 📌 Featured Projects
-- 🔐 **[Password Generator]** — Strength meter, passphrase mode, entropy analysis
 - 🤖 **AI Mock Interview Platform** URL: https://interview-ai-dusky-gamma.vercel.app
--      Inventra - Inventory Management SaaS Application *(in progress)* 
+- 
 
 ---
 
