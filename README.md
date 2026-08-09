@@ -27,8 +27,4 @@ Full Stack Developer (MERN) | Ex-Amazon UK | Kerala, India
 
 ### 📌 Featured Projects
 - 🤖 **AI Mock Interview Platform** URL: https://interview-ai-dusky-gamma.vercel.app
-- 
-
----
-
-📫 **akashpillai40@gmail.com** ·  · [Portfolio](coming-soon)
+- 🤖 **DevMate --- Developers and Professionals daily log**
